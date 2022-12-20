@@ -1,0 +1,17 @@
+p {
+    font-size: 20px;
+
+}
+
+.negro {
+    color: black;
+}
+
+.rojo {
+    color: red; 
+}
+
+form {
+    display: none;
+}
+
